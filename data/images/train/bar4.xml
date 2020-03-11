@@ -1,86 +1,86 @@
 <annotation>
-	<folder>images</folder>
-	<filename>6.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\6.jpg</path>
+	<folder>train</folder>
+	<filename>bar4.png</filename>
+	<path>/Users/rhsieh/workspace/hackathon2020/object_detection/object_detection_demo/data/images/train/bar4.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>283</width>
+		<height>178</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>bar</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>286</xmin>
-			<ymin>248</ymin>
-			<xmax>503</xmax>
-			<ymax>424</ymax>
+			<xmin>29</xmin>
+			<ymin>100</ymin>
+			<xmax>78</xmax>
+			<ymax>148</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>bar</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>28</xmin>
-			<ymin>292</ymin>
-			<xmax>243</xmax>
-			<ymax>434</ymax>
+			<xmin>88</xmin>
+			<ymin>91</ymin>
+			<xmax>136</xmax>
+			<ymax>149</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>bar</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>497</xmin>
-			<ymin>240</ymin>
-			<xmax>643</xmax>
-			<ymax>455</ymax>
+			<xmin>147</xmin>
+			<ymin>58</ymin>
+			<xmax>196</xmax>
+			<ymax>149</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>bar</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>339</xmin>
-			<ymin>116</ymin>
-			<xmax>409</xmax>
-			<ymax>212</ymax>
+			<xmin>206</xmin>
+			<ymin>28</ymin>
+			<xmax>255</xmax>
+			<ymax>150</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>Yaxis</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>115</xmin>
-			<ymin>141</ymin>
-			<xmax>226</xmax>
-			<ymax>248</ymax>
+			<xmin>7</xmin>
+			<ymin>20</ymin>
+			<xmax>28</xmax>
+			<ymax>157</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>Xaxis</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>587</xmin>
-			<ymin>332</ymin>
-			<xmax>706</xmax>
-			<ymax>420</ymax>
+			<xmin>1</xmin>
+			<ymin>145</ymin>
+			<xmax>272</xmax>
+			<ymax>164</ymax>
 		</bndbox>
 	</object>
 </annotation>
