@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>bar10.png</filename>
-	<path>/Users/rhsieh/workspace/hackathon2020/object_detection_demo/data/images/test/bar10.png</path>
+	<filename>bar10.jpg</filename>
+	<path>/Users/rhsieh/workspace/hackathon2020/object_detection_demo/data/images/test/bar10.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
